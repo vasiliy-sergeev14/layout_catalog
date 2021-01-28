@@ -18,12 +18,8 @@ body {
 }
 
 .container {
-  margin-top: 50px;
+  display: grid;
+  gap: 0 48px;
 
-  display: flex;
   justify-content: center;
-}
-
-.cover {
-  margin-bottom: 50px;
 }
